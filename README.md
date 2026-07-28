@@ -79,10 +79,11 @@
 └── wordclouds_clean.png            # Облака слов (после лемматизации)
 ```
 ## Как запустить
+
 ```bash
 git clone https://github.com/maximusquant/samokat-reviews-analysis.git
 cd samokat-reviews-analysis
-pip install -r requirements.txt
-jupyter notebook analysis.ipynb
+py -m pip install -r requirements.txt
+py -m jupyter notebook analysis.ipynb
 
 
