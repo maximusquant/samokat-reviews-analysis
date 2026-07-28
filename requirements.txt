@@ -1,0 +1,10 @@
+pymorphy3
+openpyxl
+pandas
+scikit-learn
+matplotlib
+seaborn
+wordcloud
+requests
+python-dotenv
+jupyter
